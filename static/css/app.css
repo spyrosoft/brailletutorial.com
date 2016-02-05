@@ -1,0 +1,75 @@
+/* Colors */
+body {
+  background-color: #000000; }
+
+body, h1, h2, h3, h4, h5, h6 {
+  color: #ffffff; }
+
+.button {
+  background-color: #ffffff;
+  color: #000000; }
+
+.button:hover, .button:focus {
+  background-color: #000000;
+  color: #ffffff; }
+
+/* Spacing */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 100%; }
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 2rem;
+  margin: 0; }
+
+ul, ol {
+  margin-left: 2rem;
+  margin-top: 0; }
+
+main {
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto; }
+
+main .instructions {
+  max-width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify; }
+
+.button, a.button {
+  line-height: 4rem;
+  font-size: 2rem; }
+
+.large-margin {
+  margin-top: 4rem;
+  margin-bottom: 4rem; }
+
+.medium-margin {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+/* General */
+body {
+  text-align: center; }
+
+.button {
+  font-size: 1rem; }
+
+/* Tutorial */
+div.dots {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 0.2rem;
+  margin-bottom: 1rem;
+  width: 94px;
+  margin-right: auto;
+  margin-left: auto; }
+
+[type=text], [type=text]:hover, [type=text]:focus {
+  background-color: #000000;
+  color: #000000;
+  border-color: #000000;
+  text-align: center; }
+
+/*# sourceMappingURL=app.css.map */

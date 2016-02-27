@@ -10,12 +10,12 @@
 
 (defvar brailletutorial-server
   (make-instance 'hunchentoot:easy-acceptor
-                 :document-root "."
-                 :error-template-directory "static/error-templates/"
+                 :document-root "web-root"
+                 :error-template-directory "web-root/error-templates/"
                  :access-log-destination "logs/access.log"
                  :message-log-destination "logs/error.log"
                  :port 8085))
 
-(load "static.lisp")
+(load "routes.lisp")
 
 (hunchentoot:start brailletutorial-server)

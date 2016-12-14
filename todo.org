@@ -1,0 +1,30 @@
+* Minimally Viable
+
+** Locate someone with a screen reader who can help illustrate the best method to include text/audio
+
+** Try out kdeaccessibility-kaccessible, speakup, orca, etc.
+
+** Add input testing in addition to the existing output testing
+
+** Add an about page
+	 Include the statistic of the number of people who know Braille who can't see
+	 Include reasons that it makes sense to learn Braille, even if you can see (working on your computer with your eyes closed)
+
+** Contact the blind community leaders to gain momentum for user participation and ideas
+	 Vista Center for the Blind - 413 Laurel St
+	 brailleinstitute.org
+	 nbp.org
+
+
+* Feature Requests
+
+** Add other languages
+	 http://braillebug.afb.org/foreign_language_braille.asp
+
+
+* Reaching for the Stars
+
+** Make custom keyboard hardware to sell which includes cell phone vibrators
+	 Contact the people who originally came up with the idea
+	 http://cs.unc.edu/~gb/blog/2007/01/22/an-inexpensive-tactile-braille-display-and-keyboard-with-reciprocity/
+	 Kickstarter?
